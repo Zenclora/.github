@@ -16,7 +16,6 @@
   <p>
     <img src="https://img.shields.io/badge/Base-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian Base">
     <img src="https://img.shields.io/badge/Desktop-GNOME-46a4da?style=flat-square&logo=gnome&logoColor=white" alt="GNOME">
-    <img src="https://img.shields.io/sourceforge/dt/zenclora?style=flat-square" alt="Downloads">
   </p>
 </div>
 
@@ -67,5 +66,5 @@ Zenclora includes special automation commands to save you hours of setup time. N
 ---
 
 <div align="center">
-  <sub>© 2026 Zenclora Linux Project. Made with ❤️ for the community.</sub>
+  <sub>© 2026 Zenclora Linux Project. Peace & Love ❤️.</sub>
 </div>
