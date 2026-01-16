@@ -16,7 +16,6 @@
   <p>
     <img src="https://img.shields.io/badge/Base-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian Base">
     <img src="https://img.shields.io/badge/Desktop-GNOME-46a4da?style=flat-square&logo=gnome&logoColor=white" alt="GNOME">
-    <img src="https://img.shields.io/sourceforge/dt/zenclora?style=flat-square" alt="Downloads">
   </p>
 </div>
 
