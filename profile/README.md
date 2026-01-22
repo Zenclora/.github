@@ -59,7 +59,7 @@ Zenclora includes special automation commands to save you hours of setup time. N
 ## 🔗 Links & Support
 
 * **Official Website:** [zenclora.org](https://zenclora.org)
-* **YouTube:** [@root0emir](https://www.youtube.com/@linux-tech-channel)
+* **YouTube:** [@linux-tech-channel](https://www.youtube.com/@linux-tech-channel)
 * **X (Twitter):** [@root0emir](https://x.com/root0emir)
 * **Developer:** [root0emir](https://github.com/root0emir)
 
